@@ -19,13 +19,16 @@
  ✔️ Provided data-driven insights that helped increase revenue by 10%.  
 
 ## 📁 Project Structure  
- 📂 Music-Store-SQL-Analysis  
- ├── 📜 README.md (Project Overview)  
- ├── 📜 music_store_database.sql (Sample Data)  
- ├── 📂 Queries  
- │   ├── 📜 analysis_queries.sql (All SQL Queries Used)  
- ├── 📂 Reports  
- │   ├── 📜 insights_report.pdf (Key Business Insights)  
+# 📂 Music-Store-SQL-Analysis  
+# ├── 📜 README.md (Project Overview)  
+# ├── 📜 music_store_database.sql (Sample Data)  
+# ├── 📂 Queries  
+# │   ├── 📜 analysis_queries.sql (All SQL Queries Used)  
+# ├── 📂 Reports  
+# │   ├── 📜 insights_report.pdf (Key Business Insights)  
+# │   ├── 📜 Business_Problems.pdf (Defined Business Challenges)  
+# ├── 📂 Documentation  
+# │   ├── 🖼️ schema_diagram.png (Database Schema Diagram)  
 
 ## 🚀 How to Run the Project  
  1️⃣ Clone the repository  
