@@ -1,12 +1,13 @@
 # MUSIC_STORE_ANALYSIS_PTROJECT-SQL-
 🎵 Music Store Database Analysis
+
 📌 Project Overview
 This project analyzes a music store database using SQL to extract key business insights. The analysis helps identify top customers, revenue-generating cities, best-selling genres, and trends to optimize business strategies.
 
 🛠 Tech Stack
 Database: MySQL
 Query Language: SQL
-Tools Used: SQL Workbench 
+Tools Used: SQL Workbench
 
 📊 Key Insights & Findings
 ✔ Identified top revenue-generating cities for a promotional music festival.
