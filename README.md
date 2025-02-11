@@ -25,10 +25,10 @@ Tools Used: SQL Workbench
 │   │── 📜 insights_report.pdf (Key Business Insights)
 
 🚀 How to Run the Project
-1️⃣ Clone the repository: git clone https://github.com/vinayjespal/MUSIC_STORE_ANALYSIS_PTROJECT-SQL-.git
+1 Clone the repository: git clone https://github.com/vinayjespal/MUSIC_STORE_ANALYSIS_PTROJECT-SQL-.git
 cd MUSIC_STORE_ANALYSIS_PTROJECT-SQL-
-2️⃣ Import the music_store_database.sql file into your SQL database.
-3️⃣ Run queries from the analysis_queries.sql file to generate insights.
+2️ Import the music_store_database.sql file into your SQL database.
+3️ Run queries from the analysis_queries.sql file to generate insights.
 
 📢 Connect with Me
 🔗 GitHub: https://github.com/vinayjespal
